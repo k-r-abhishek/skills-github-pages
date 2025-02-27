@@ -1,11 +1,3 @@
-title: "Abhishek's Blog"
-description: "A space for tech, coding, and learning."
-baseurl: ""  # Keep it blank if deploying to GitHub Pages
-url: ""  # Replace with your actual GitHub Pages URL
 
 # Enable posts
 theme: minima  # You can use another theme if preferred
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
